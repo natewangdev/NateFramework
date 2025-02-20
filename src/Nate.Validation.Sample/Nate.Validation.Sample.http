@@ -1,0 +1,6 @@
+@Nate.Validation.Sample_HostAddress = http://localhost:5230
+
+GET {{Nate.Validation.Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

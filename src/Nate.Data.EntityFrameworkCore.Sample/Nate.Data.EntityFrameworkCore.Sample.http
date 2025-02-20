@@ -1,0 +1,6 @@
+@Nate.Data.EntityFrameworkCore.Sample_HostAddress = http://localhost:5157
+
+GET {{Nate.Data.EntityFrameworkCore.Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
